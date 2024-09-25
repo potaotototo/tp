@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "cheng-lui-leng": "Cheng Lui Leng",
+        "wang-jingjing": "Wang Jingjing",
+        "wong-wei-jian": "Wong Wei Jian",
+        "curtis-chang": "Curtis Chang",
+        "quah-kai-kiat": "Quah Kai Kiat"
       },
       "headingKeywords": {}
     },
@@ -136,11 +136,38 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/curtischang2510.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/kaikquah.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/luileng.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/potaotototo.md",
+      "headings": {
+        "i-m-jingjing": "I'm Jingjing."
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/weijianwong.md",
+      "headings": {},
       "headingKeywords": {}
     }
   ]
