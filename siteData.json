@@ -121,6 +121,8 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "adding-or-deleting-a-remark-remark": "Adding or Deleting a Remark: remark",
+        "adding-lessons-addlesson-or-addlsn": "Adding Lessons: addlesson or addlsn",
+        "deleting-lessons-deletelesson-or-dellsn": "Deleting Lessons: deletelesson or dellsn",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "displaying-student-information-display": "Displaying Student Information: display",
